@@ -6,13 +6,13 @@ Git Repository for Games Development with Game Engine Assessment
 - In the camera script in the inspector, assign target as *Player*
 
 # Player Inspector
-- In CollisionScript in Player Inspector, assign Question and Police Notice to their same named script object
+- In CollisionScript in Player Inspector, assign Question and Police Notice (panels) to their same named script object
 
-# Question (parent) Inspector
+# Question (panel) Inspector
 - Assign Question parent object to Question in QuestionScript in Inspector
-- Exit button on click needs to setActiveBool false for the Question (parent)
+- Exit button on click needs to setActiveBool false for the Question (panel)
 - Asnwer buttons on click need to be set to QuestionScript.Correct ot QuestionSCript.Incorrect depending on which answer is correct 
 
-# Police Notice 
-- Exit button on click needs to setActiveBool false for the Police Notice 
+# Police Notice (panel) Inspector
+- Exit button on click needs to setActiveBool false for the Police Notice (panel)
   
